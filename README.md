@@ -2,11 +2,11 @@
 Console Shooting Game .Net Core 2.1 and C#, Select Gun, Shoot Animal, Collect Points and Show points at Game over, Unit test cases, Visual Studio 2019
 
 Controls
-Move Gun Up: Up Arrow
-Move Gun Down: Down Arrow
-Shoot: Space Bar
-Exit: Esc
-Animal: #
+Move Gun Up: Up Arrow,
+Move Gun Down: Down Arrow,
+Shoot: Space Bar,
+Exit: Esc,
+Animal: #,
 Gun: -/=
 
 Select Gun
