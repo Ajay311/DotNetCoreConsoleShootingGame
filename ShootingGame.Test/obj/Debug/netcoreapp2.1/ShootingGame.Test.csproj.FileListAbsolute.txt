@@ -1,0 +1,17 @@
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame.Test\bin\Debug\netcoreapp2.1\ShootingGame.Test.deps.json
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame.Test\bin\Debug\netcoreapp2.1\ShootingGame.Test.runtimeconfig.json
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame.Test\bin\Debug\netcoreapp2.1\ShootingGame.Test.runtimeconfig.dev.json
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame.Test\bin\Debug\netcoreapp2.1\ShootingGame.Test.dll
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame.Test\bin\Debug\netcoreapp2.1\ShootingGame.Test.pdb
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame.Test\bin\Debug\netcoreapp2.1\ShootingGame.dll
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame.Test\bin\Debug\netcoreapp2.1\ShootingGame.pdb
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame.Test\obj\Debug\netcoreapp2.1\ShootingGame.Test.csprojAssemblyReference.cache
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame.Test\obj\Debug\netcoreapp2.1\ShootingGame.Test.csproj.CoreCompileInputs.cache
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame.Test\obj\Debug\netcoreapp2.1\ShootingGame.Test.AssemblyInfoInputs.cache
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame.Test\obj\Debug\netcoreapp2.1\ShootingGame.Test.AssemblyInfo.cs
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame.Test\obj\Debug\netcoreapp2.1\ShootingGame.Test.csproj.CopyComplete
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame.Test\obj\Debug\netcoreapp2.1\ShootingGame.Test.dll
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame.Test\obj\Debug\netcoreapp2.1\ShootingGame.Test.pdb
